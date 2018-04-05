@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "Openpay"
   s.version      = "2.0.0"
-  s.summary      = "Pod to use Openpay's framework"
+  s.summary      = "Pod to use Openpay's framework in workspace"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
